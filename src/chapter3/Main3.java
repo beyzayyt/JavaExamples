@@ -67,7 +67,5 @@ public class Main3 {
             i -=1;
             System.out.println(i);
         }
-
     }
-
 }

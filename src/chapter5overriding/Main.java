@@ -6,16 +6,22 @@ public class Main {
 //        object.show();
 //        A object = new B();
 //        object.show();
-        İnsan beyza = new İnsan();
-        Muhendis beyza1 = new Muhendis();
-        beyza.boy = 161;
-        beyza.kilo = 49;
-        beyza1.boy=161;
-        beyza1.kilo=49;
-        beyza1.maas = 1000;
-        System.out.println(beyza1.Maas());
-        System.out.println(beyza1.yemek());
-        System.out.println(beyza.yemek());
+//        İnsan beyza = new İnsan();
+//        Muhendis beyza1 = new Muhendis();
+//        beyza.boy = 161;
+//        beyza.kilo = 49;
+//        beyza1.boy=161;
+//        beyza1.kilo=49;
+//        beyza1.maas = 1000;
+//        System.out.println(beyza1.Maas());
+//        System.out.println(beyza1.yemek());
+//        System.out.println(beyza.yemek());
+        Sport sport = new Sport();
+        Soccer soccer = new Soccer();
+        sport.get_name();
+        sport.get_number_of_team_members();
+        soccer.get_name();
+        soccer.get_number_of_team_members();
 
 
     }

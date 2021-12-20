@@ -1,6 +1,5 @@
 package chapter5Inheritance;
 
-
 import chapter5GetSet.Tasit;
 
 class KaraTasiti extends Tasit {

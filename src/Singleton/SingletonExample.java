@@ -25,6 +25,7 @@ public class SingletonExample {
 class Test {
     public static void main(String[] args) {
 
+//        SingletonExample beyza = new SingletonExample();
         //create instances
         SingletonExample singletonExample1 = SingletonExample.getInstance();
         SingletonExample singletonExample2 = SingletonExample.getInstance();
